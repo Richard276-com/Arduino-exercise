@@ -38,5 +38,3 @@ Breve raccolta di esercizi realizzati con Arduino.
 **Riccardo Solovastru**
 
 ---
-* aggiungere immagini del circuito 📸
-* oppure trasformarlo in un README “pro” con badge e stile GitHub avanzato 🚀
