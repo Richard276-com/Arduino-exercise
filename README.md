@@ -1,12 +1,12 @@
 ---
 
-# 🔌 Arduino Exercise
+# Arduino Exercise
 
 Breve raccolta di esercizi realizzati con Arduino.
 
 ---
 
-## 🧰 Componenti utilizzati
+## Componenti utilizzati
 
 * Arduino R3
 * Breadboard
@@ -17,7 +17,7 @@ Breve raccolta di esercizi realizzati con Arduino.
 
 ---
 
-## 📦 Requisiti
+## Requisiti
 
 * Tinkercad (account gratuito)
 * Browser Web
@@ -25,7 +25,7 @@ Breve raccolta di esercizi realizzati con Arduino.
 
 ---
 
-## ▶️ Come usare
+## Come usare
 
 1. Apri il progetto su Tinkercad
 2. Avvia la simulazione
@@ -33,7 +33,7 @@ Breve raccolta di esercizi realizzati con Arduino.
 
 ---
 
-## 👤 Autore
+## Autore
 
 **Riccardo Solovastru**
 
